@@ -1,0 +1,2 @@
+## link to colab notebook
+https://colab.research.google.com/drive/1kzvBeal4Y8e1527rI2VObFbPv4-_MntD?usp=sharing
