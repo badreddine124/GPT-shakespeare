@@ -1,2 +1,11 @@
 ## link to colab notebook
 https://colab.research.google.com/drive/1kzvBeal4Y8e1527rI2VObFbPv4-_MntD?usp=sharing
+
+## Tokenization
+	-people mostly use SentencePiece or tiktoken.
+
+
+## about the data
+	-The block size is the maximum context length for predictions, meaning the model will consider up to 8 previous elements to make a prediction.
+
+
